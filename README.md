@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Ajay Pradeep
+<hr>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ajaygitt&show_icons=true&theme=ADD_THEME_HERE" width="400">
