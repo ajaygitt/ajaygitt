@@ -16,4 +16,3 @@ h1 align="center">Hi 👋, I'm Ajay Pradeep</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaygitt&show_icons=true&locale=en&layout=compact" alt="ajaygitt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaygitt&show_icons=true&locale=en" alt="ajaygitt" /></p>
