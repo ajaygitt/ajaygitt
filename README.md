@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ajay Pradeep</h1>
+<h1 align="center">Hi 👋, I'm Ajay Pradeep</h1>
 <h3 align="center">A Highly passionated software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygitt&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygitt" /> </p>
