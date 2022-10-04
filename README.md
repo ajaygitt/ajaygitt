@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaygitt&label=Profile%20views&color=0e75b6&style=flat" alt="ajaygitt" /> </p>
 
-- 🔭 I’m currently working for ** Accubits **
+- 🔭 I’m currently working for **Accubits**
 
 - 📫 Reach me at **ajaypradeep1712@gmail.com**
 
